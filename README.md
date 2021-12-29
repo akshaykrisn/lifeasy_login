@@ -1,29 +1,10 @@
 # Lifeasy Login
 
-## Firebase Checklist
-
-```diff
-+ [✓] Google Sign In
-- [ ] Migration from Sheets API to Firebase Firestore
-- [ ] User Settings
-```
-
-# [Android & Web] [For Srmkzilla]
-
 ## A simple cross-platform Expense-Tracker that uses GSheets API to store and retrieve your expenses in a Google spreadsheet.
 
-## Note
-
-```diff
-- The loading time is slow and takes around 15-20 seconds. Please don't do anything while it's loading.
-- You can only load the data once per minute. 
-- Multiple instances of the same app running together will not load any data and create unhandled errors.
-+ It will be fixed in future using cached memory and user authentication.
-```
-
-Appname & Author  | Android APK [recommended] | Web App
-------------- | ------------- | ------------- 
-Nexpense - Akshay Krishna |  [Download APK](https://github.com/edaxe/nexpense/releases/tag/APK) | [Deployed Web App](https://edaxe.github.io) 
+Android APK [recommended] | Web App
+------------- | ------------- 
+[Download APK](https://github.com/edaxe/nexpense/releases/tag/APK) | [Deployed Web App](https://edaxe.github.io) 
 
 ## Screenshots
 

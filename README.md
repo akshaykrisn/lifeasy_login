@@ -4,7 +4,7 @@
 
 Android APK | Web App
 ------------- | ------------- 
-[Download APK](https://github.com/edaxe/lifeasy_login/releases/tag/APK) | -
+[Download APK](https://github.com/edaxe/lifeasy_login/releases/tag/One) | -
 
 ## Screenshots
 

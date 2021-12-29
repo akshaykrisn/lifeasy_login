@@ -1,4 +1,4 @@
-# lifeasy_login
+# Lifeasy Login
 
 A new Flutter project.
 

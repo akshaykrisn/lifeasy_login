@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1009954255807",
+    "project_id": "lifeasylogin",
+    "storage_bucket": "lifeasylogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009954255807:android:50880f5add0e12edd4a70a",
+        "android_client_info": {
+          "package_name": "com.example.lifeasy_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009954255807-lof7f4874dlusfem4uvlbbr7ieo515qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lifeasy_login",
+            "certificate_hash": "45378284c1bcb60e6e18ec6f647f5a5b631f6a5c"
+          }
+        },
+        {
+          "client_id": "1009954255807-rpseq4ei4mkv0jev0jtfb6noouipvqjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDai3ez43IIHjwKOogu5SbFjGBEyvb3_TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009954255807-rpseq4ei4mkv0jev0jtfb6noouipvqjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

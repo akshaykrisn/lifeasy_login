@@ -2,7 +2,7 @@
 
 ## A simple cross-platform Expense-Tracker that uses GSheets API to store and retrieve your expenses in a Google spreadsheet.
 
-Android APK [recommended] | Web App
+Android APK | Web App
 ------------- | ------------- 
 [Download APK](https://github.com/edaxe/nexpense/releases/tag/APK) | [Deployed Web App](https://edaxe.github.io) 
 
@@ -13,37 +13,12 @@ Android APK [recommended] | Web App
 | ![](https://github.com/edaxe/nexpense/blob/main/release/2.png)  | 
 |  | 
 
-## Video Demo
-
-#### https://youtu.be/y2JmsmkK8Pw
-
 
 ## Install instructions
 
 - Clone the project using terminal or download ZIP or just download the APK
-``` git clone https://github.com/edaxe/nexpense.git```
+``` git clone https://github.com/edaxe/lifeasy_login.git```
 - Run Flutter package getter
 ``` flutter pub get ```
 - Run on your preferred platform
-``` flutter run ``` or 
-``` flutter run -d ```
-
-## Working Features
-
-- Google Spreadsheet API as database [Universal database].
-- Add Transaction with important data such as Category/Name/Amount/In or Out.
-- View Spending Analysis with a Pie Chart.
-- Catorization based on usage with unique icons & colors.
-
-## Upcoming Features
-
-- Firebase Authentication.
-- Databases unique to authenticated users.
-- Option to modify/delete a transaction.
-- Locally cached database.
-
-## Instructions to use your own spreadsheet
-
-- Follow this guide to create your own API keys.
-  - https://developers.google.com/sheets
-- Add the keys to /lib/google_sheets_api.dart
+``` flutter run ``` 

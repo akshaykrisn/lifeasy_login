@@ -1,16 +1,16 @@
 # Lifeasy Login
 
-## A simple cross-platform Expense-Tracker that uses GSheets API to store and retrieve your expenses in a Google spreadsheet.
+## Login flow example for Lifeasy 
 
 Android APK | Web App
 ------------- | ------------- 
-[Download APK](https://github.com/edaxe/nexpense/releases/tag/APK) | [Deployed Web App](https://edaxe.github.io) 
+[Download APK](https://github.com/edaxe/lifeasy_login/releases/tag/APK) | -
 
 ## Screenshots
 
-| ![](https://github.com/edaxe/nexpense/blob/main/release/4.png)  | ![](https://github.com/edaxe/nexpense/blob/main/release/1.png) | ![](https://github.com/edaxe/nexpense/blob/main/release/3.png) |
+| ![](https://github.com/edaxe/lifeasy_login/blob/main/release/4.png)  | ![](https://github.com/edaxe/lifeasy_login/blob/main/release/1.png) | ![](https://github.com/edaxe/lifeasy_login/blob/main/release/3.png) |
 | ------------- | ------------- | ------------- |
-| ![](https://github.com/edaxe/nexpense/blob/main/release/2.png)  | 
+| ![](https://github.com/edaxe/lifeasy_login/blob/main/release/2.png)  | 
 |  | 
 
 

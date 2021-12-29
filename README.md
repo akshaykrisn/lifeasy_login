@@ -8,10 +8,10 @@ Android APK | Web App
 
 ## Screenshots
 
-| ![](https://github.com/edaxe/lifeasy_login/blob/main/release/1.png)  | ![](https://github.com/edaxe/lifeasy_login/blob/main/release/2.png) | ![](https://github.com/edaxe/lifeasy_login/blob/main/release/3.png) || ![](https://github.com/edaxe/lifeasy_login/blob/main/release/4.jpeg)  | 
+| ![](https://github.com/edaxe/lifeasy_login/blob/main/release/1.png)  | ![](https://github.com/edaxe/lifeasy_login/blob/main/release/2.png) | ![](https://github.com/edaxe/lifeasy_login/blob/main/release/3.png) |
 | ------------- | ------------- | ------------- |
-
-|  |  |
+| ![](https://github.com/edaxe/lifeasy_login/blob/main/release/4.jpeg)  | 
+|  | 
 
 
 ## Install instructions
